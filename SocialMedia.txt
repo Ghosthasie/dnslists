@@ -1,4 +1,4 @@
-||facebook^
+||facebook.com^
 twitter\.com
 instagram\.com
 linkedin\.com
