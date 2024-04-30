@@ -1,4 +1,4 @@
-^\.facebook\.com$
+||facebook^
 twitter\.com
 instagram\.com
 linkedin\.com
