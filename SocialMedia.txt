@@ -1,19 +1,19 @@
-0.0.0.0 ^\.facebook\.com$
-0.0.0.0 twitter\.com
-0.0.0.0 instagram\.com
-0.0.0.0 linkedin\.com
-0.0.0.0 tiktok\.com
-0.0.0.0 snapchat\.com
-0.0.0.0 reddit\.com
-0.0.0.0 pinterest\.com
-0.0.0.0 tumblr\.com
-0.0.0.0 wechat\.com
-0.0.0.0 quora\.com
-0.0.0.0 discord\.com
-0.0.0.0 mastodan\.social
-0.0.0.0 viber\.com
-0.0.0.0 mix\.com
-0.0.0.0 meetup\.com
-0.0.0.0 vk\.com
-0.0.0.0 x\.com
-0.0.0.0 youtube\.com
+^\.facebook\.com$
+twitter\.com
+instagram\.com
+linkedin\.com
+tiktok\.com
+snapchat\.com
+reddit\.com
+pinterest\.com
+tumblr\.com
+wechat\.com
+quora\.com
+discord\.com
+mastodan\.social
+viber\.com
+mix\.com
+meetup\.com
+vk\.com
+x\.com
+youtube\.com
